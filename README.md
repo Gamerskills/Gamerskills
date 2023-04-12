@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Redskull-Glitch
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning C# language
-- 🎮 My discord is Redskull#9257
+- 🎮 I do not have a discord anymore. You can check out where you can contact me on this video: https://www.youtube.com/watch?v=RXLVH6EjLiY
+- 🌐 My website: https://redskull.neocities.org/
 
 <!---
 Redskull-Glitch/Redskull-Glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
